@@ -1,12 +1,13 @@
 # BTS - Test (Vue Project)
 Description here....
 
-## Project setup
+## Installation
 ```
-npm install
+cd to project
+npm install / yarn
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+yarn serve or npm run serve
 ```
