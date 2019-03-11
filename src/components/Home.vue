@@ -8,7 +8,7 @@
 
 <script>
   import Navbar from './shareds/Navbar'
-  import Slider from './homes/Slider'
+  import Slider from './home-contents/Slider'
 
   export default {
     // data: () => ({
