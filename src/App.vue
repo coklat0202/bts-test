@@ -11,3 +11,9 @@ export default {
   name: 'App'
 }
 </script>
+
+<style> 
+#app {
+  background: #000;
+}
+</style>

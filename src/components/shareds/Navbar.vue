@@ -2,11 +2,11 @@
   <v-toolbar>
     <v-toolbar-side-icon></v-toolbar-side-icon>
     <v-toolbar-title class="headline text-uppercase">
-      <span class="font-weight-light-title">Anime</span>
-      <span class="font-weight-light-title">Manga</span>
-      <span class="font-weight-light-title">Drama</span>
+      <span class="font-weight-light-title">App Test</span>
     </v-toolbar-title>
+
     <v-spacer></v-spacer>
+    
     <router-link to="/login">
       <v-btn
         flat
@@ -40,9 +40,10 @@ export default {
     cursor: pointer;
   }
   .v-btn {
-    /* background-color: #fff!important; */
     color: #fff!important;
     font-family: 'Roboto', sans-serif !important;
-    /* margin-right: 5px */
   }
+  a {
+		text-decoration: none!important;
+	}
 </style>

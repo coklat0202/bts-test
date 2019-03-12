@@ -7,9 +7,8 @@
       reverse-transition="fade"
       transition="fade"
     ></v-carousel-item>
-    <!-- <div class="play-button">
-      Play
-    </div> -->
+
+    <!-- <div class="play-button">Play</div> -->
   </v-carousel>
 </template>
 
@@ -32,7 +31,6 @@
           }
         ]
     })
-    // name: 'ContentSlider'
   }
 </script>
 
@@ -52,6 +50,9 @@
   }
 
   .play-button {
+    width: 130px!important;
+    height: 36px;
+    border-radius: 50px;
     position: absolute;
     top: 70%;
     z-index: 1;
