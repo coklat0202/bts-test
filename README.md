@@ -1,4 +1,4 @@
-# BTS - Test (Vue Project)
+# BTS - Test
 Description here....
 
 ## Installation
